@@ -1,0 +1,12 @@
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\obj\Debug\net8.0\ChatTag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\obj\Debug\net8.0\ChatTag.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\obj\Debug\net8.0\ChatTag.AssemblyInfo.cs
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\obj\Debug\net8.0\ChatTag.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\obj\Debug\net8.0\ChatTag.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\bin\Debug\net8.0\ChatTag.deps.json
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\bin\Debug\net8.0\ChatTag.dll
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\bin\Debug\net8.0\ChatTag.pdb
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\obj\Debug\net8.0\ChatTag.dll
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\obj\Debug\net8.0\refint\ChatTag.dll
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\obj\Debug\net8.0\ChatTag.pdb
+C:\Users\Can\Desktop\CS2Plugin\ChatTag\ChatTag\obj\Debug\net8.0\ref\ChatTag.dll
